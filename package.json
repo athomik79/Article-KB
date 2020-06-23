@@ -1,0 +1,22 @@
+{
+  "name": "article-kb",
+  "version": "1.0.0",
+  "description": "simple article knowledge-base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athomik79/Article-KB.git"
+  },
+  "author": "ADT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athomik79/Article-KB/issues"
+  },
+  "homepage": "https://github.com/athomik79/Article-KB#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
